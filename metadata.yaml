@@ -1,5 +1,8 @@
 _repo: Prima-di-partire_71678
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71678-h/images/cover.jpg
 creator:
   author:
     agent_name: Castelnuovo, Enrico
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Enrico_Castelnuovo
     - https://it.wikipedia.org/wiki/Enrico_Castelnuovo_(scrittore)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71678#Prima-di-partire
 gutenberg_issued: '2023-09-18'
 identifiers:
   gutenberg: '71678'
